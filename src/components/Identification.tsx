@@ -54,12 +54,12 @@ export default function Identification({
         onDateChange(formattedDate);
         onError(null);
       } else {
-        onError("Fecha de nacimiento inválida.");
+        onError("Invalid date of birth.");
       }
     }
 
     if (arrayValue.length < 14) {
-      onError("Cédula incompleta.");
+      onError("Invalid Identification.");
     }
   };
 
