@@ -17,10 +17,15 @@ npm run dev
 
 
 # Video Demo
-
 Here’s a quick demo of the project:
 
-<video controls width="600">
-  <source src="public/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+
+
+https://github.com/user-attachments/assets/1a5a2a2d-4b4e-4b92-abb7-aa464e213cf0
+
+
+
+
