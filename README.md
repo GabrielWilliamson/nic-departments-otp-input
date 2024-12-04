@@ -10,6 +10,6 @@ Run the development server:
 npm run dev
 ```
 
-[repository]()
+[repository](https://github.com/GabrielWilliamson/nic-departments-otp-input)
 
-[data repository]()
+[data repository](https://github.com/GabrielWilliamson/Departamentos-de-Nic)
